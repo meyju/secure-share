@@ -13,10 +13,10 @@ import (
 	"strings"
 	"time"
 
-	"github.com/Draal/secure-share/config"
-	"github.com/Draal/secure-share/context"
-	"github.com/Draal/secure-share/storage"
-	template "github.com/Draal/secure-share/templates"
+	"github.com/meyju/secure-share/config"
+	"github.com/meyju/secure-share/context"
+	"github.com/meyju/secure-share/storage"
+	template "github.com/meyju/secure-share/templates"
 )
 
 type Handler struct {

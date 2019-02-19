@@ -1,8 +1,8 @@
 <%
 package template
 import (
-	"github.com/Draal/secure-share/context"
-  template "github.com/Draal/secure-share/templates/partitial"
+	"github.com/meyju/secure-share/context"
+  template "github.com/meyju/secure-share/templates/partitial"
 )
 
 func Index(w io.Writer, ctx *context.Context) {

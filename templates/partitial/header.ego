@@ -1,7 +1,7 @@
 <%
 package template
 import (
-	"github.com/Draal/secure-share/context"
+	"github.com/meyju/secure-share/context"
 )
 
 func Header(w io.Writer, ctx *context.Context) { %><!DOCTYPE html>

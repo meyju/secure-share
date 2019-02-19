@@ -3,7 +3,7 @@ package context
 import (
 	"fmt"
 
-	"github.com/Draal/secure-share/config"
+	"github.com/meyju/secure-share/config"
 	"github.com/FinalLevel/go-i18n/i18n"
 )
 

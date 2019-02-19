@@ -6,8 +6,8 @@ go get github.com/benbjohnson/ego/cmd/ego
 go get github.com/FinalLevel/go-i18n/goi18n
 
 (cd translation
-$GOPATH/bin/goi18n *.all.json *.untranslated.json
 $GOPATH/bin/goi18n *.all.json
+$GOPATH/bin/goi18n *.all.json *.untranslated.json
 )
 
 go generate

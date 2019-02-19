@@ -81,12 +81,12 @@ func (c *Config) loadTranslationFiles() error {
 	if err := i18n.LoadTranslationFile("translation/en-us.all.json"); err != nil {
 		return err
 	}
-	if err := i18n.LoadTranslationFile("translation/ru-ru.all.json"); err != nil {
+	if err := i18n.LoadTranslationFile("translation/de-de.all.json"); err != nil {
 		return err
 	}
 	c.Languages = []Language{
 		Language{Code: "en-us", Iso: "eng", Name: "English", ShortName: "ENG"},
-		Language{Code: "ru-ru", Iso: "rus", Name: "Русский", ShortName: "РУС"},
+		Language{Code: "de-de", Iso: "deu", Name: "Deutsch", ShortName: "DEU"},
 	}
 	return nil
 }
@@ -101,7 +101,7 @@ func (c *Config) GetLanguageByCode(code string) Language {
 }
 
 const (
-	LangEnglish = "en-us"
+	LangEnglish = "de-de"
 )
 
 func (c *Config) GetLanguage(req *http.Request, setLang string) (t i18n.TranslateFunc, lang string) {

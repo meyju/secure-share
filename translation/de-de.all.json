@@ -1,0 +1,201 @@
+[
+  {
+    "id": "citatis_partner",
+    "translation": "Citatis - Best Quotes by Famous People XXXXXXXXXXXXXX"
+  },
+  {
+    "id": "decrypt_in_browser",
+    "translation": "Entschlüsselung nur Browser des Empfängers"
+  },
+  {
+    "id": "decrypt_in_browser_text",
+    "translation": "Sende den Link mit dem Passwort über jedes beliebige Kommunikationsmedium. Sobald der empfangende Browser die Informationen entschlüsselt hat, sind sie vom Server gelöscht"
+  },
+  {
+    "id": "delete_button",
+    "translation": "Löschen"
+  },
+  {
+    "id": "drag_or_upload",
+    "translation": "Deine geheime Datei ({{.Limit}} max)"
+  },
+  {
+    "id": "encrypt_button",
+    "translation": "Verschlüsseln und Link anzeigen"
+  },
+  {
+    "id": "encrypt_in_browser",
+    "translation": "Verschlüsselung direkt in deinem Browser"
+  },
+  {
+    "id": "encrypt_in_browser_text",
+    "translation": "Bevor die Daten zum Server übertragen werden, werden sie in deinem Browser verschlüsselt (Mit AES 256). Entweder mit einem zufalls Schlüssel oder mit deinem Passwort."
+  },
+  {
+    "id": "expires",
+    "translation": "Läuft ab"
+  },
+  {
+    "id": "generate_passphrase",
+    "translation": "Generiere Passwort"
+  },
+  {
+    "id": "generate_secret",
+    "translation": "Generiere Geheimnis"
+  },
+  {
+    "id": "generator_h3",
+    "translation": "Zufallspasswort Generator"
+  },
+  {
+    "id": "generator_insert_passphrase",
+    "translation": "Fülle das Passwort Feld aus"
+  },
+  {
+    "id": "generator_insert_secret",
+    "translation": "Gib etwas in das Geheimnis Feld ein"
+  },
+  {
+    "id": "gn_character_sets",
+    "translation": "Zeichensatz"
+  },
+  {
+    "id": "gn_dashes",
+    "translation": "Striche (-_)"
+  },
+  {
+    "id": "gn_length",
+    "translation": "Länge"
+  },
+  {
+    "id": "gn_lower_letters",
+    "translation": "Kleinbuchstaben"
+  },
+  {
+    "id": "gn_numbers",
+    "translation": "Zahlen"
+  },
+  {
+    "id": "gn_password",
+    "translation": "Passwort"
+  },
+  {
+    "id": "gn_quality",
+    "translation": "Qualität"
+  },
+  {
+    "id": "gn_regenerate",
+    "translation": "Neu Generieren"
+  },
+  {
+    "id": "gn_special_characters",
+    "translation": "Sonderzeichen (;#$^\u003c\u003e)"
+  },
+  {
+    "id": "gn_upper_letters",
+    "translation": "GROßBUCHSTABEN"
+  },
+  {
+    "id": "gn_white_spaces",
+    "translation": "Leerzeichen"
+  },
+  {
+    "id": "index_h1",
+    "translation": "Teile verschlüsselten Text oder eine Datei"
+  },
+  {
+    "id": "invalid_passphrase",
+    "translation": {
+      "one": "Ungültiges Passwort. Ein Versuch übrig",
+      "other": "Ungültiges Passwort. {{.Count}} Versuche übrig"
+    }
+  },
+  {
+    "id": "label_decode_passphrase",
+    "translation": "Passwort"
+  },
+  {
+    "id": "label_share_link",
+    "translation": "Teile diesen Link"
+  },
+  {
+    "id": "label_shared_file",
+    "translation": "Teile eine Datei"
+  },
+  {
+    "id": "label_shared_secret",
+    "translation": "Teile einen Geheimnis"
+  },
+  {
+    "id": "maxsize-error-message",
+    "translation": "Maximale Dateigröße sollte nicht {{.Limit}} überschreiten"
+  },
+  {
+    "id": "maxsize-error-title",
+    "translation": "Maximale Dateigröße überschritten"
+  },
+  {
+    "id": "meta_description",
+    "translation": "Encrypt.One — encrypted text and files sharing service. Browser encryption."
+  },
+  {
+    "id": "meta_keywords",
+    "translation": "encryption, text encryption, file encryption, secure text transfer, secure file transfer"
+  },
+  {
+    "id": "new_button",
+    "translation": "Teile noch ein Geheimnis"
+  },
+  {
+    "id": "orb_partner",
+    "translation": "Online Radio Box - Free Online Internet Radio Stations XXXXXXXXXXXXXXX"
+  },
+  {
+    "id": "our_sponsors",
+    "translation": "Our Sponsors XXXXXXXXXXXXXXX"
+  },
+  {
+    "id": "placeholder_passphrase",
+    "translation": "Passwort (optional)"
+  },
+  {
+    "id": "placeholder_secret",
+    "translation": "Geheimtext"
+  },
+  {
+    "id": "progress_spiner",
+    "translation": "Verschlüsseln"
+  },
+  {
+    "id": "re_share_button",
+    "translation": "Link austauschen"
+  },
+  {
+    "id": "secret_not_found",
+    "translation": "Das Geheimnis wurde gelöscht oder ist bereits abgelaufen"
+  },
+  {
+    "id": "service_advantages",
+    "translation": "Warum ist ENCRYPT.One sicherer als andere Dienste?"
+  },
+  {
+    "id": "show_secret_button",
+    "translation": "Zeige Geheimnis"
+  },
+  {
+    "id": "soruce_code_footer",
+    "translation": "Der Projekt Source Code ist auf {{.Link}} verfügbar"
+  },
+  {
+    "id": "storage_on_server",
+    "translation": "Speicherung auf dem Server"
+  },
+  {
+    "id": "storage_on_server_text",
+    "translation": "Der Server erhält nur verschlüsselte Informationen und kann diese nicht entschlüsseln, weil weder der Link noch das Passwort jemals zum Server übertragen wird."
+  },
+  {
+    "id": "title",
+    "translation": "Encrypt \u0026 Decrypt Text or File Online (AES encryption) — Encrypt.One"
+  }
+]
