@@ -40,7 +40,7 @@ func Footer(w io.Writer, ctx *con.Context) { %>
 			<%==ctx.T("soruce_code_footer", map[string]interface{}{
 				"Link": `<a href="https://github.com/meyju/secure-share" target="_blank">Github</a>`,
 			})%>
-			<p>Hosted with &hearts; by <a href="https://www.julian-meyer.de/" target="_blank">julian-meyer.de</a>. All Rights Reserved.</p>
+			<p>Hosted with &hearts; by <a href="https://www.julianmeyer.de/" target="_blank">julianmeyer.de</a>. All Rights Reserved.</p>
 		</div>
 
 	<!--/w3-main-->
