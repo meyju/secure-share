@@ -1,15 +1,15 @@
 [
   {
     "id": "decrypt_in_browser",
-    "translation": "Entschl&uuml;sselung nur Browser des Empf&auml;ngers"
+    "translation": "Entschlüsselung nur Browser des Empfängers"
   },
   {
     "id": "decrypt_in_browser_text",
-    "translation": "Sende den Link mit dem Passwort &uuml;ber jedes beliebige Kommunikationsmedium. Sobald der empfangende Browser die Informationen entschl&uuml;sselt hat, sind sie vom Server gel&ouml;scht"
+    "translation": "Sende den Link mit dem Passwort über jedes beliebige Kommunikationsmedium. Sobald der empfangende Browser die Informationen entschlüsselt hat, sind sie vom Server gelöscht"
   },
   {
     "id": "delete_button",
-    "translation": "L&ouml;schen"
+    "translation": "Löschen"
   },
   {
     "id": "drag_or_upload",
@@ -17,19 +17,19 @@
   },
   {
     "id": "encrypt_button",
-    "translation": "Verschl&uuml;sseln und Link anzeigen"
+    "translation": "Verschlüsseln und Link anzeigen"
   },
   {
     "id": "encrypt_in_browser",
-    "translation": "Verschl&uuml;sselung direkt in deinem Browser"
+    "translation": "Verschlüsselung direkt in deinem Browser"
   },
   {
     "id": "encrypt_in_browser_text",
-    "translation": "Bevor die Daten zum Server &uuml;bertragen werden, werden sie in deinem Browser verschl&uuml;sselt (Mit AES 256). Entweder mit einem zufalls Schl&uuml;ssel oder mit deinem Passwort."
+    "translation": "Bevor die Daten zum Server übertragen werden, werden sie in deinem Browser verschlüsselt (Mit AES 256). Entweder mit einem zufalls Schlüssel oder mit deinem Passwort."
   },
   {
     "id": "expires",
-    "translation": "L&auml;uft ab"
+    "translation": "Läuft ab"
   },
   {
     "id": "generate_passphrase",
@@ -45,7 +45,7 @@
   },
   {
     "id": "generator_insert_passphrase",
-    "translation": "F&uuml;lle das Passwort Feld aus"
+    "translation": "Fülle das Passwort Feld aus"
   },
   {
     "id": "generator_insert_secret",
@@ -61,7 +61,7 @@
   },
   {
     "id": "gn_length",
-    "translation": "L&auml;nge"
+    "translation": "Länge"
   },
   {
     "id": "gn_lower_letters",
@@ -77,7 +77,7 @@
   },
   {
     "id": "gn_quality",
-    "translation": "Qualit&auml;t"
+    "translation": "Qualität"
   },
   {
     "id": "gn_regenerate",
@@ -97,13 +97,13 @@
   },
   {
     "id": "index_h1",
-    "translation": "Teile verschl&uuml;sselten Text oder eine Datei"
+    "translation": "Teile verschlüsselten Text oder eine Datei"
   },
   {
     "id": "invalid_passphrase",
     "translation": {
-      "one": "Ung&uuml;ltiges Passwort. Ein Versuch &uml;brig",
-      "other": "Ung&uuml;ltiges Passwort. {{.Count}} Versuche &uuml;brig"
+      "one": "Ungültiges Passwort. Ein Versuch übrig",
+      "other": "Ungültiges Passwort. {{.Count}} Versuche übrig"
     }
   },
   {
@@ -124,19 +124,19 @@
   },
   {
     "id": "maxsize-error-message",
-    "translation": "Maximale Dateigr&ouml;&szlig;e sollte nicht {{.Limit}} &uuml;berschreiten"
+    "translation": "Maximale Dateigröße sollte nicht {{.Limit}} überschreiten"
   },
   {
     "id": "maxsize-error-title",
-    "translation": "Maximale Dateigr&ouml;&szlig;e &uuml;berschritten"
+    "translation": "Maximale Dateigröße überschritten"
   },
   {
     "id": "meta_description",
-    "translation": "Secure-Share — Verschl&uuml;sselter Test und Datei austuasch Service. Browser verschl&uuml;selung."
+    "translation": "Encrypt.One — encrypted text and files sharing service. Browser encryption."
   },
   {
     "id": "meta_keywords",
-    "translation": "encryption, text encryption, file encryption, secure text transfer, secure file transfer, verschl&uuml;sseln, entschl&uuml;sseln, client seitig, aws"
+    "translation": "encryption, text encryption, file encryption, secure text transfer, secure file transfer"
   },
   {
     "id": "new_button",
@@ -152,7 +152,7 @@
   },
   {
     "id": "progress_spiner",
-    "translation": "Verschl&uuml;sseln"
+    "translation": "Verschlüsseln"
   },
   {
     "id": "re_share_button",
@@ -160,11 +160,11 @@
   },
   {
     "id": "secret_not_found",
-    "translation": "Das Geheimnis wurde gel&ouml;scht oder ist bereits abgelaufen"
+    "translation": "Das Geheimnis wurde gelöscht oder ist bereits abgelaufen"
   },
   {
     "id": "service_advantages",
-    "translation": "Warum ist Secure-Share sicherer als andere Dienste?"
+    "translation": "Warum ist ENCRYPT.One sicherer als andere Dienste?"
   },
   {
     "id": "show_secret_button",
@@ -172,7 +172,7 @@
   },
   {
     "id": "soruce_code_footer",
-    "translation": "Der Projekt Source Code ist auf {{.Link}} verf&uuml;gbar"
+    "translation": "Der Projekt Source Code ist auf {{.Link}} verfügbar"
   },
   {
     "id": "storage_on_server",
@@ -180,10 +180,10 @@
   },
   {
     "id": "storage_on_server_text",
-    "translation": "Der Server erh&aauml;lt nur verschl&uuml;sselte Informationen und kann diese nicht entschl&uuml;sseln, weil weder der Link noch das Passwort jemals zum Server &uuml;bertragen wird."
+    "translation": "Der Server erhält nur verschlüsselte Informationen und kann diese nicht entschlüsseln, weil weder der Link noch das Passwort jemals zum Server übertragen wird."
   },
   {
     "id": "title",
-    "translation": "Verschl&uuml;sel \u0026 Entschl&uuml; Text oder Dateien Online (AES encryption) — Secure-Share"
+    "translation": "Verschlüssel & entschlüssel Text oder Dateien Online (AES encryption) — Secure-Share"
   }
 ]
