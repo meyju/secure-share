@@ -1,10 +1,9 @@
 <%
 package template
 import (
-	"github.com/meyju/secure-share/context"
-	"time"
+	con "github.com/meyju/secure-share/context"
 )
-func Footer(w io.Writer, ctx *context.Context) { %>
+func Footer(w io.Writer, ctx *con.Context) { %>
 <!--/w3-main-->
 </div>
 <!--/w3-row-->

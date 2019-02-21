@@ -1,11 +1,11 @@
 <%
 package template
 import (
-	"github.com/meyju/secure-share/context"
+	con "github.com/meyju/secure-share/context"
   template "github.com/meyju/secure-share/templates/partitial"
 )
 
-func Index(w io.Writer, ctx *context.Context) {
+func Index(w io.Writer, ctx *con.Context) {
   template.Header(w, ctx)
 %>
 <div class="w3-container" id="secret_div">

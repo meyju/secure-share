@@ -1,10 +1,10 @@
 <%
 package template
 import (
-	"github.com/meyju/secure-share/context"
+	con "github.com/meyju/secure-share/context"
 )
 
-func Header(w io.Writer, ctx *context.Context) { %><!DOCTYPE html>
+func Header(w io.Writer, ctx *con.Context) { %><!DOCTYPE html>
 <html lang="<%=ctx.CurrentLang[:2]%>">
 <head itemtype="http://schema.org/WebSite">
 	<title><%=ctx.T("title")%></title>
