@@ -1,9 +1,9 @@
-# Encrypt.One
+# Secure-Share
 
-The main goal of `https://encrypt.one` is to make sensitive information sharing
+The main goal of `https://share.datafer.de` is to make sensitive information sharing
 safe and secure. it was achieved by using full client-side encryption model.
 
-Created by [Final Level](https://final-level.com/).
+Original created by [Final Level](https://final-level.com/), modified by [Julian Meyer](https://www.julian-meyer.de/).
 
 ## Advantages
 

@@ -136,7 +136,7 @@
   },
   {
     "id": "meta_description",
-    "translation": "Encrypt.One — encrypted text and files sharing service. Browser encryption."
+    "translation": "Secure-Share — encrypted text and files sharing service. Browser encryption."
   },
   {
     "id": "meta_keywords",
@@ -176,7 +176,7 @@
   },
   {
     "id": "service_advantages",
-    "translation": "Why is ENCRYPT.One safer than other services?"
+    "translation": "Why is Secure-Share safer than other services?"
   },
   {
     "id": "show_secret_button",
@@ -196,6 +196,6 @@
   },
   {
     "id": "title",
-    "translation": "Encrypt \u0026 Decrypt Text or File Online (AES encryption) — Encrypt.One"
+    "translation": "Encrypt \u0026 Decrypt Text or File Online (AES encryption) — Secure-Share"
   }
 ]

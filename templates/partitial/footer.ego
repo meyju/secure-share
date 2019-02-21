@@ -30,16 +30,6 @@ func Footer(w io.Writer, ctx *context.Context) { %>
 				<i class="i-about i-about-3"></i>
 			</div>
 		</div>
-		<hr class="w3-border-top" />
-		<h2 class="w3-center w3-padding-top w3-text-grey"><%=ctx.T("our_sponsors")%></h2>
-		<div class="w3-row">
-			<div class="w3-half w3-container w3-center">
-				<a href="https://onlineradiobox.com/" class="i-sponsor i-sponsor-1"><img src="/img/orb_logo_gray.svg" alt="<%=ctx.T("orb_partner")%>" /></a>
-			</div>
-			<div class="w3-half w3-container w3-center">
-				<a href="https://citatis.com/" class="i-sponsor i-sponsor-2"><img src="/img/citatis_logo.svg" alt="<%=ctx.T("citatis_partner")%>" /></a>
-			</div>
-		</div>
 	<!--/w3-main-->
 	</div>
 <!--/w3-row-->
@@ -51,7 +41,7 @@ func Footer(w io.Writer, ctx *context.Context) { %>
 			<%==ctx.T("soruce_code_footer", map[string]interface{}{
 				"Link": `<a href="https://github.com/meyju/secure-share" target="_blank">Github</a>`,
 			})%>
-			<p>&copy;&nbsp;2016-<%=time.Now().Year()%>. <a href="https://final-level.com/" target="_blank">FINAL LEVEL</a>. All Rights Reserved.</p>
+			<p>Hosted with &hearts; by <a href="https://www.julian-meyer.de/" target="_blank">julian-meyer.de</a>. All Rights Reserved.</p>
 		</div>
 
 	<!--/w3-main-->
