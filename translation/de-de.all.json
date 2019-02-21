@@ -5,7 +5,7 @@
   },
   {
     "id": "decrypt_in_browser_text",
-    "translation": "Sende den Link mit dem Passwort über jedes beliebige Kommunikationsmedium. Sobald der empfangende Browser die Informationen entschlüsselt hat, sind sie vom Server gelöscht"
+    "translation": "Sende den Link mit dem Passwort über jedes beliebige Kommunikationsmedium. Sobald der empfangende Browser die Informationen entschlüsselt hat, sind die Daten vom Server gelöscht."
   },
   {
     "id": "delete_button",
@@ -25,7 +25,7 @@
   },
   {
     "id": "encrypt_in_browser_text",
-    "translation": "Bevor die Daten zum Server übertragen werden, werden sie in deinem Browser verschlüsselt (Mit AES 256). Entweder mit einem zufalls Schlüssel oder mit deinem Passwort."
+    "translation": "Bevor die Daten zum Server übertragen werden, werden sie in deinem Browser verschlüsselt (Mit AES 256). Entweder mit einem Zufalls- oder deinem Wunsch-Passwort."
   },
   {
     "id": "expires",
@@ -132,11 +132,11 @@
   },
   {
     "id": "meta_description",
-    "translation": "Encrypt.One — encrypted text and files sharing service. Browser encryption."
+    "translation": "Secure-Share — Verschlüsselter Text und Dateien austausch Service. Browser Verschlüsselung."
   },
   {
     "id": "meta_keywords",
-    "translation": "encryption, text encryption, file encryption, secure text transfer, secure file transfer"
+    "translation": "encryption, text encryption, file encryption, secure text transfer, secure file transfer, Verschlüsselung, Entschlpsselung, Browserverschlüsselung, Clientverschlüsselung"
   },
   {
     "id": "new_button",
@@ -164,7 +164,7 @@
   },
   {
     "id": "service_advantages",
-    "translation": "Warum ist ENCRYPT.One sicherer als andere Dienste?"
+    "translation": "Warum ist Secure-Share sicherer als andere Dienste?"
   },
   {
     "id": "show_secret_button",
