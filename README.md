@@ -25,7 +25,7 @@ Original created by [Final Level](https://final-level.com/), modified by [Julian
 
 ```sh
   npm -i
-  GOOS=linux GOARCH=amd64 ./package.sh secureshare
+  GOOS=linux GOARCH=amd64 ./package.sh secure-share
 ```
 
 ## Run

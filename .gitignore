@@ -5,6 +5,8 @@ pkgs/
 templates/ego.go
 secure-share
 *.min.js
+*.js.gz
 *.min.css
+*.css.gz
 *.ego.go
 translation/*.untranslated.json
