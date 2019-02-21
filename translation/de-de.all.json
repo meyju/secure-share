@@ -1,7 +1,7 @@
 [
   {
     "id": "decrypt_in_browser",
-    "translation": "Entschlüsselung nur Browser des Empfängers"
+    "translation": "Entschlüsselung im Browser des Empfängers"
   },
   {
     "id": "decrypt_in_browser_text",
@@ -120,7 +120,7 @@
   },
   {
     "id": "label_shared_secret",
-    "translation": "Teile einen Geheimnis"
+    "translation": "Geheimtext"
   },
   {
     "id": "maxsize-error-message",
@@ -140,7 +140,7 @@
   },
   {
     "id": "new_button",
-    "translation": "Teile noch ein Geheimnis"
+    "translation": "Teile ein weiteres Geheimnis"
   },
   {
     "id": "placeholder_passphrase",
@@ -148,7 +148,7 @@
   },
   {
     "id": "placeholder_secret",
-    "translation": "Geheimtext"
+    "translation": "Schreib dein Geheimtext"
   },
   {
     "id": "progress_spiner",
